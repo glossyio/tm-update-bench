@@ -2,7 +2,7 @@
     "contracts": [
         1
     ],
-    "tm_version": "0.8.0-dev",
+    "tm_version": "0.8.1",
     "tmdb_schema": 12,
     "state_schema": 8
 }
