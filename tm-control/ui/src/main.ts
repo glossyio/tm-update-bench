@@ -1,3 +1,4 @@
+// Bench stand-in D1: a changed line in the UI sources (throwaway; not part of Traffic Monitor).
 // Starts the app: loads the device's setup status (which carries its colors), builds the theme, and shows the page.
 import { createPinia } from 'pinia'
 import { createApp } from 'vue'
